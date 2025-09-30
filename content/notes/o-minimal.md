@@ -12,4 +12,4 @@ Recent progress on these topics make use of o-minimality which is a notion from 
 
 Here is some notes on o-minimality.
 
-[Notes on o-minimality](https://github.com/Tang-Zhichao/o-minimality)
+[Notes on o-minimality](https://github.com/Tang-Zhichao/o-minimality), with Zaiyuan Chen
