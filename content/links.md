@@ -6,8 +6,8 @@ path = "links"
 # Data bases
 - [arXiv Mathematics](https://www.arxiv.org/archive/math)
 [math.AG](https://arxiv.org/list/math.AG/recent)
-[math.AG.new](https://arxiv.org/list/math.AG/new)
-- [Mathscinet](https://mathscinet.ams.org/mathscinet/)
+([math.AG.new](https://arxiv.org/list/math.AG/new))
+- [MathSciNet](https://mathscinet.ams.org/mathscinet/)
 - [zbMATH Open](https://zbmath.org)
 
 # Homepages
