@@ -47,7 +47,7 @@ menu = [
     { name = "about", url = "/about"},
     { name = "publications", url = "/publications"},
     { name = "notes", url = "/notes"},
-    { name = "sortings", url = "/sortings"},
+    { name = "sorting", url = "/sorting"},
     { name = "links", url = "/links"},
 ]
 

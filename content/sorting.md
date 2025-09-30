@@ -1,6 +1,6 @@
 +++
-title = "Sortings"
-path = "sortings"
+title = "Sorting"
+path = "sorting"
 +++
 
 # [by tags](/tags)
