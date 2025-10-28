@@ -1,6 +1,6 @@
 +++
 title = "Derived isogenies between abelian varieties"
-date = 2025-10-25
+date = 2025-10-26
 authors = ["Zhiyuan Li", "Ziwei Lu", "Zhichao Tang"]
 
 [taxonomies]
