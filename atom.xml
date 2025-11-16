@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Tang-Zhichao</title>
+    <subtitle>Homepage</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://Tang-Zhichao.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://Tang-Zhichao.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-10-26T00:00:00+00:00</updated>
+    <id>https://Tang-Zhichao.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Derived isogenies between abelian varieties</title>
+        <published>2025-10-26T00:00:00+00:00</published>
+        <updated>2025-10-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Zhiyuan Li
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Ziwei Lu
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Zhichao Tang
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Tang-Zhichao.github.io/publications/abelian-derived/"/>
+        <id>https://Tang-Zhichao.github.io/publications/abelian-derived/</id>
+        
+        <content type="html" xml:base="https://Tang-Zhichao.github.io/publications/abelian-derived/">&lt;p&gt;With Zhiyuan Li and Ziwei Lu&lt;&#x2F;p&gt;
+&lt;p&gt;Abstract:
+In this paper, we establish a derived Torelli Theorem for twisted abelian varieties. Starting from this, we explore the relation between derived isogenies and classical isogenies.  We show that two abelian varieties of dimension $\geq 2$ are derived isogenous if and only if they are principally isogenous over fields of characteristic zero. This generalized the result for abelian surfaces and completely solves the question raised in &lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2108.08710&quot;&gt;LZ25&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2510.22612&quot;&gt;arXiv:2510.22612&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Projective Equivalence of Smooth Hypersurfaces via Cyclic Covers</title>
+        <published>2025-10-25T00:00:00+00:00</published>
+        <updated>2025-10-25T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Zhiyuan Li
+          </name>
+        </author>
+        
+        <author>
+          <name>
+            Zhichao Tang
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Tang-Zhichao.github.io/publications/hypersurface/"/>
+        <id>https://Tang-Zhichao.github.io/publications/hypersurface/</id>
+        
+        <content type="html" xml:base="https://Tang-Zhichao.github.io/publications/hypersurface/">&lt;p&gt;With Zhiyuan Li&lt;&#x2F;p&gt;
+&lt;p&gt;Abstract:
+In this paper,  we prove that for any smooth hypersurface $Y$ of degree $d$ in $\mathbb{P}^{n+1}_k$, the cyclic $d$-fold cover $\widetilde{Y} \to \mathbb{P}^{n+1}_k$ branched along $Y$ completely characterizes $Y$ up to projective equivalence. This solves a question asked by Huybrechts in [&lt;a href=&quot;https:&#x2F;&#x2F;doi.org&#x2F;10.1017&#x2F;9781009280020&quot;&gt;Huy23&lt;&#x2F;a&gt;, $\S \mathbf{1}.5.6$].&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2508.04336&quot;&gt;arXiv:2508.04336&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;v1: 2025-08-06&lt;&#x2F;p&gt;
+&lt;p&gt;v2: 2025-10-25&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Notes on o-minimal structures</title>
+        <published>2025-09-01T00:00:00+00:00</published>
+        <updated>2025-09-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Tang-Zhichao.github.io/notes/o-minimal/"/>
+        <id>https://Tang-Zhichao.github.io/notes/o-minimal/</id>
+        
+        <content type="html" xml:base="https://Tang-Zhichao.github.io/notes/o-minimal/">&lt;p&gt;In autumn of 2025, one of the topics of the learning seminar is the boundedness and b-semiampleness conjecture.
+Recent progress on these topics (check the notes for details) make use of o-minimality,
+which is a notion from model theory.&lt;&#x2F;p&gt;
+&lt;p&gt;Here is some notes on o-minimality.
+Currently these topics are not covered,
+and future changes may occur when these are covered in the seminar.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Tang-Zhichao&#x2F;o-minimality&quot;&gt;Notes on o-minimality&lt;&#x2F;a&gt;, with Zaiyuan Chen&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Notes on the Hodge conjecture of abelian varieties</title>
+        <published>2025-06-10T00:00:00+00:00</published>
+        <updated>2025-06-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://Tang-Zhichao.github.io/notes/abelian-hodge/"/>
+        <id>https://Tang-Zhichao.github.io/notes/abelian-hodge/</id>
+        
+        <content type="html" xml:base="https://Tang-Zhichao.github.io/notes/abelian-hodge/">&lt;p&gt;In spring of 2025, the topic of the learning seminar is the &lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2502.03415v2&quot;&gt;recent work&lt;&#x2F;a&gt; of Markman on Hodge conjecture of abelian varieties.
+In particular, he obtains the full Hodge conjecture for abelian varieties of dimension $4$.&lt;&#x2F;p&gt;
+&lt;p&gt;Here is &lt;a href=&quot;&#x2F;files&#x2F;Note_on_Markman_s_example.pdf&quot;&gt;some notes&lt;&#x2F;a&gt; on several sections of this work,
+which is covered by myself and contains the main prototypes and examples.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
